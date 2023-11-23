@@ -38,4 +38,4 @@ for allKeys in dictionary:
 	print (dictionary[allKeys], end = " ")
 	print()
 
-# This code is contributed by Ronit Shrivastava.
+# This code is contributed by CHINNAM LAKSHMI NARASIMHA KUMAR.
